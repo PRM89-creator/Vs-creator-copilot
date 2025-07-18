@@ -32,3 +32,18 @@ Democratizar a produção musical, oferecendo ferramentas poderosas e acessívei
 ---
 
 ## 📦 Organização do Projeto
+---
+
+## 🙌 Contribuições
+
+Este projeto está em desenvolvimento. Sinta-se à vontade para abrir **issues**, sugerir melhorias ou colaborar com código.
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença [MIT](LICENSE).
+
+---
+
+Feito com paixão pela música 🎶 e por quem acredita no poder da criação livre.
